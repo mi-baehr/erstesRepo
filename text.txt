@@ -2,3 +2,4 @@ Release 1
 Release 2 - Jetzt noch besser!
 Release 3 - Jetzt noch schneller!
 - Feature 0 - alte Hüte
+- Feature 2.1 - unabhängig von Feature 1
