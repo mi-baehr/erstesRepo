@@ -6,3 +6,4 @@ Release 3 - Jetzt noch schneller!
 - Feature 1.2 - Es wird
 - Feature 2.1 - unabhängig von Feature 1
 - Feature 3.1 - Immer wieder mal was neues
+- Feature 3.2 - Und das dauert auch mal
