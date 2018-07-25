@@ -9,3 +9,5 @@ Release 3 - Jetzt noch schneller!
 - Feature 3.2 - Und das dauert auch mal
 - Experiment 1 - Muahaha!
 - Experiment 2 - verrückte Ideen
+- Feature 4 -von PR298SC
+- Feature 5 - von PR298SC
